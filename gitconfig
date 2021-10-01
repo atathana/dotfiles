@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = nasioulita@gmail.com
+	name = Nasia Athanasiadou
